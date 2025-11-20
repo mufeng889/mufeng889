@@ -1,6 +1,6 @@
 ### Hi there, I am Ohh 👋
 
-> A front-end engineer from **Xi'An, China**.
+> A front-end engineer
 
 ### 📫 Reach me:
 
